@@ -17,7 +17,7 @@ Functionalities:
 - If the value from TDS is not suitable for fish, the warning will display below, the boudary value which fit for fish habitat is: <br>
 o With oxygen: 11-14ppm<br>
 o With water quality: 150-250ppm (follow to TDS sensor)<br>
-o With pH: 6.5 – 9<br>
+o With pH: 1-7<br>
 <p>The value above is varied in terms of what kind of fish you are keeping</p>
 
 # Code for ESP8266 at dir /ESP8266
