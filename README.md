@@ -1,7 +1,7 @@
 # Final Project for the IOT Lab: Aquarium
 This is the project for learning purpose only
 #How to use?
-First, there is a link for web application: https://kiettrantuan3007.github.io/iotlab.github.io/
+First, there is a link for web application: https://maihongphong1902.github.io/IoTlab/
 We deployed it on Github (this resposity)
 
 
